@@ -525,6 +525,7 @@ a {
 
 .feedback .arrow {
     margin-top: 52px;
+    cursor: pointer;
 }
 
 .feedback .feedback-wrap {
